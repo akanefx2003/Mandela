@@ -1,0 +1,9 @@
+{
+  "appId": "com.sorax.mandelabansitev2",
+  "appName": "Mandela-ban-site-v2",
+  "webDir": "www",
+  "server": {
+    "url": "https://mandela-ban-site-v2.netlify.app",
+    "cleartext": false
+  }
+  }
